@@ -100,7 +100,7 @@ cloudflared tunnel --url http://localhost
 """
 )
  
-st.image('images/Pasted image 20240705180148.png') # To redact
+st.image('images/Pasted image 20240705180148.png')
 
 st.markdown("""
 A temporary tunnel is now available via a URL - see the same login screen as our localhost.
