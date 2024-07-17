@@ -237,9 +237,9 @@ git push -u origin main
 ```
 ---
 
-That's it! You have managed to integrate DVC into a typical deep learning workflow. Next time you are on the move, you can just pull the data from the dvc remote and start using it just like it was on your local drive or a cloud drive.
+That's it! You have managed to integrate DVC into a typical deep learning workflow with the data sitting securely in your own personal cloud. We can just pull the data from the dvc remote and start using it just like it was on own local drive or a cloud drive.
 
-P.S. I have exluded the second stage which involves training a model. Feel free to check the GitHub repository for more details.
+P.S. I have exluded the second part of the workflow which involves training a model. The article would've been really long otherwise. Feel free to check the GitHub repository for more details on how to train a model using OpenEarth dataset with `segmentation-models-pytorch` package.
 
 Link to GitHub Repository: https://github.com/geovicco-dev/OpenEarthMap
 """
